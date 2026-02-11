@@ -80,5 +80,3 @@ This project demonstrates:
 - Model training with scikit-learn
 - Model evaluation metrics
 - Data visualization with matplotlib
-
----
